@@ -1,3 +1,6 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7362deb9bd6e4e3eb1beb78484e8d9b6)](https://www.codacy.com/gh/reficul0/IpFilther/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=reficul0/IpFilther&amp;utm_campaign=Badge_Grade)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/RocketChat/Rocket.Chat/raw/master/LICENSE)
+
 # IpFilther
 
 Программа читает данные из ip_filter.tsv. \
